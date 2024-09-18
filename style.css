@@ -2,13 +2,14 @@ body {
     text-align: center; 
     background-color: red;
   }
-
- 
+#content {
+    border:green solid 5px }
 
   h1 {
     text-align: center;
     color: black;
     text-align: center;
+    font-size: 60px;
   }
   
   p {
