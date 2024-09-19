@@ -10,6 +10,11 @@ body {
     color: black;
     text-align: center;
     font-size: 60px;
+    text-decoration-line: underline;
+  }
+
+  h2 {
+    text-decoration-line: underline;
   }
   
   p {
