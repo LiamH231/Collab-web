@@ -9,8 +9,15 @@ body {
     margin-right:auto;
 }
 
-
-
+#image1{
+    float:right;
+}
+#image2{
+    float:left ;
+}
+#image3{
+    
+}
 #menu {
     background-color: greenyellow;
     width: 200px;
@@ -45,7 +52,9 @@ body {
   h2 {
     text-decoration-line: underline;
   }
-  
+  h4 {
+    float 
+  }
   p {
     text-align: center;
     font-family: sans-serif;
